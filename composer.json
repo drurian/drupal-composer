@@ -25,14 +25,20 @@
         "drupal/devel": "8.1.*@dev",
         "drupal/paragraphs": "8.1.*@dev",
         "drupal/search_api": "8.1.*@dev",
-        "drupal/inline_entity_form": "8.1.*@dev",
+        "drupal/inline_entity_form": "8.1.x-dev",
         "drupal/zen": "8.7.x-dev",
         "drupal/components": "8.1.x-dev",
         "drupal/entity_embed": "8.1.*@dev",
-        "drupal/entity_browser": "8.1.*@dev",
+        "drupal/entity_browser": "8.1.x-dev",
         "drupal/media_entity": "8.1.*@dev",
         "drupal/media_entity_image": "8.1.*@dev",
-        "drupal/video_embed_field": "8.1.*@dev"
+        "drupal/video_embed_field": "8.1.*@dev",
+        "drupal/eck": "8.1.x-dev",
+        "drupal/ctools": "8.3.x-dev",
+        "drupal/inline_entity_form_preview": "8.1.x-dev",
+        "drupal/file_browser": "8.1.x-dev",
+        "drupal/libraries": "8.3.x-dev",
+        "drupal/dropzonejs": "8.1.x-dev"
     },
     "require-dev": {
        "behat/mink": "~1.7",
